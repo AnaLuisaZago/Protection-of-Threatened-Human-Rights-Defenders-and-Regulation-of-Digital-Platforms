@@ -1,7 +1,7 @@
-Title: 
-Protection of Threatened Human Rights Defenders and Regulation of Digital Platforms.
-Topic:
-The protection of threatened human rights defenders, especially women, and the use of artificial intelligence (AI) to map risks on digital platforms.
+1. Title:
+#Protection of Threatened Human Rights Defenders and Regulation of Digital Platforms.
+2. Topic:
+#The protection of threatened human rights defenders, especially women, and the use of artificial intelligence (AI) to map risks on digital platforms.
 Short description of the topic’s relevance and gaps in existing research:
 In Brazil, violence is a fundamental and structural phenomenon that persists even after re-democratization. In the post-1988 Constitution period, violence persists as an instrument of the State, but also as a way of appropriating natural resources, and intimidating people who defend human rights, the environment, and freedom of expression.
 According to the Brazilian Ministry of Health's Mortality Information System (SIM/MS), in 2019 there were 45,503 homicides in Brazil, corresponding to a rate of 21.7 deaths per 100,000 inhabitants. . In addition to homicides, 16,648 Violent Deaths due to Undetermined Causes were recorded. 
