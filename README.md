@@ -1,8 +1,8 @@
 1. Title:
-#Protection of Threatened Human Rights Defenders and Regulation of Digital Platforms.
+Protection of Threatened Human Rights Defenders and Regulation of Digital Platforms.
 2. Topic:
-#The protection of threatened human rights defenders, especially women, and the use of artificial intelligence (AI) to map risks on digital platforms.
-Short description of the topic’s relevance and gaps in existing research:
+The protection of threatened human rights defenders, especially women, and the use of artificial intelligence (AI) to map risks on digital platforms.
+3. Short description of the topic’s relevance and gaps in existing research:
 In Brazil, violence is a fundamental and structural phenomenon that persists even after re-democratization. In the post-1988 Constitution period, violence persists as an instrument of the State, but also as a way of appropriating natural resources, and intimidating people who defend human rights, the environment, and freedom of expression.
 According to the Brazilian Ministry of Health's Mortality Information System (SIM/MS), in 2019 there were 45,503 homicides in Brazil, corresponding to a rate of 21.7 deaths per 100,000 inhabitants. . In addition to homicides, 16,648 Violent Deaths due to Undetermined Causes were recorded. 
 Black people (the sum of black and brown people classified by the Brazilian Institute of Geography and Statistics) represented 77% of homicide victims, with a homicide rate per 100 100,000 inhabitants of 29.2. Comparatively, among non-black people (the sum of yellow, white, and Indigenous people) the rate was 11.2 for every 100 thousand, which means that the chance of a black person being murdered is 2.6 times higher than that of a non-black. In other words, in 2019, the rate of lethal violence against black people was 162% higher than among non-black people. 
@@ -16,21 +16,21 @@ The most contemporary technologies of hate are based on the history of violence,
 The dissemination, on an exponential scale, of targeted hate messages to the population, systematically and constantly, intends to mobilize certain fears and resentments, based on the organic action of followers to foster hate communities. The consequences can overwhelm digital platforms generate psychological damage and even contribute to victims' suicides. Furthermore, some threats can be geolocated and specific, going beyond hate speech and culminating in attacks and murders.
 During election periods, complaints related to hate speech on digital platforms increase due to its use as an effective means of growing political capital; due to the omission of digital platforms about profiles that use hate speech, political violence and encourage extremist acts against democracy, as well as due to the ineffectiveness of the Judiciary and, above all, the Electoral Court, in curbing the use political violence and hate speech. 
 Therefore, in addition to security regulation, it is necessary to define ways to protect people through the collaboration of technology companies that own digital platforms.  Through the principles of transparency and non-surveillance of human rights defenders, a selection of cases will be carried out to define expressions that can identify threats subject to geolocation and, with the contribution of programmers, it is intended to build a pilot to be used by such companies to identify possible risks and alert government protection programs. 
-Brief outline of the research project plan
-General objective:
+4. General objective:
 In the dimension of the effectiveness of the constitutional right to security, propose risk mapping on digital platforms as an additional mechanism for protecting threatened human rights defenders, especially women.
-Specific objectives:
-1. Understand the effectiveness of the right to security in the digital context, especially due to the impossibility of delimiting rigid frames between the real and virtual worlds2. Analyze information flows and the digital architecture of digital platforms, with an emphasis on networks and social media, in general, due to their plurality;
-3. Analyze content moderation and content engagement and boosting mechanisms;
-4. Select cases that culminated in deaths and attacks and started with threats on networks and social media;
-5. Analyze the feasibility of building a code that identifies possible new attacks to build a pilot;
-6. Search for partners to implement the pilot.
-Indication of relevant sources and methods:
+5. Specific objectives:
+5. 1. Understand the effectiveness of the right to security in the digital context, especially due to the impossibility of delimiting rigid frames between the real and virtual worlds;
+5.2. Analyze information flows and the digital architecture of digital platforms, with an emphasis on networks and social media, in general, due to their plurality;
+5.3. Analyze content moderation and content engagement and boosting mechanisms;
+5.4. Select cases that culminated in deaths and attacks and started with threats on networks and social media;
+5.5. Analyze the feasibility of building a code that identifies possible new attacks to build a pilot;
+5.6. Search for partners to implement the pilot.
+6. Indication of relevant sources and methods:
 The first three objectives will be pursued by applying the bibliographic research method. For the last three, fieldwork will be carried out and qualitative research techniques and instruments will be applied, especially semi-structured interviews.
 We will select cases that culminated in deaths and attacks and started with threats on networks and social media. 
 The selection of cases must cover all regions of the country (northern region: legal Amazon, northeast, central-west, southeast, and south), have gender parity, and cover the following themes (which have generated more violence in Brazil): right to land (especially indigenous and traditional community in general), right to housing, combating racism, fight for gender equality, LGBTQ rights, fight for freedom of expression, and religious freedom (with an emphasis on combating religious racism).
 After applying semi-structured interviews, the attacks will be analyzed to verify common patterns to build a pilot to combat violence on digital platforms.
-References:
+7. References:
 BRASIL. GABINETE DE TRANSIÇÃO GOVERNAMENTAL 2022. Final Report. Brasília, Dec. 2022.
 BRASIL. Relatório de Recomendações para o Enfrentamento do Discurso de Ódio e o Extremismo no Brasil. Christian Ingo Lenz Dunker, Débora Diniz Rodrigues, Esther Solano. et al. / Camilo Onoda Luiz Caldas, Manuela Pinto Vieira d ́Ávila, Brenda de Fraga Espindula. et al. (Coord.). 1. ed. Brasília: Ministério dos Direitos Humanos e da Cidadania, 2023. Available in: < https://drive.google.com/file/d/1u9gU06ZWbZaOfqbzcqatqo8yDwWTC1et/view?pli=1>.
 CARBONARI, Paulo Cesar. Proteção popular em direitos humanos: sentidos, limites e potencialidades. Passo Fundo: Saluz, 2023. 
